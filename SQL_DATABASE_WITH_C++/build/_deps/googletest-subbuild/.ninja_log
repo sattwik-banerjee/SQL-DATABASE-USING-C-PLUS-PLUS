@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	1717134711549281678	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	29515771f4cda21a
+981	991	1717134712530077706	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	65acbc0c976a4830
+951	961	1717134712500612240	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1d879e872e9ef363
+0	10	1717134711549281678	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	29515771f4cda21a
+10	938	1717134712477263510	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e613cf0345b6ce93
+1000	1013	1717134712552140888	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a1f65413f7e7346e
+1000	1013	1717134712552140888	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a1f65413f7e7346e
+951	961	1717134712500612240	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1d879e872e9ef363
+10	938	1717134712477263510	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e613cf0345b6ce93
+1000	1013	1717134712552140888	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	a1f65413f7e7346e
+961	971	1717134712510588743	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	c23b325f6f2c98b7
+971	981	1717134712520036077	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	acaff71f3a49294a
+971	981	1717134712520036077	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	acaff71f3a49294a
+991	1000	1717134712539220580	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	4af55c8638f38b36
+938	951	1717134712489708941	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4610fec5cc649c53
+938	951	1717134712489708941	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4610fec5cc649c53
+1000	1013	1717134712552140888	CMakeFiles/googletest-populate-complete	a1f65413f7e7346e
+981	991	1717134712530077706	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	65acbc0c976a4830
+961	971	1717134712510588743	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	c23b325f6f2c98b7
+991	1000	1717134712539220580	/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	4af55c8638f38b36

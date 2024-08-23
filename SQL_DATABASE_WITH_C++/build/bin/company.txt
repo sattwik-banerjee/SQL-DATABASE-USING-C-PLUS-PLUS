@@ -1,0 +1,11 @@
+company
+_
+id
+name
+industry
+revenue
+number
+_
+of
+_
+employees

@@ -1,0 +1,11 @@
+customer
+_
+id
+first
+_
+name
+last
+_
+name
+email
+phone

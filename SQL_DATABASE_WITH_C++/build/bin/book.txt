@@ -1,0 +1,7 @@
+isbn
+title
+author
+publisher
+year
+_
+published

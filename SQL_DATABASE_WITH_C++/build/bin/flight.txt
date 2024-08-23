@@ -1,0 +1,13 @@
+flight
+_
+id
+airline
+departure
+_
+city
+arrival
+_
+city
+departure
+_
+time

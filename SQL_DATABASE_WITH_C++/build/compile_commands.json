@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/main.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/binary_files/file_record.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/main.dir/includes/binary_files/file_record.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/binary_files/utilities.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/main.dir/includes/binary_files/utilities.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/parser/parser.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "output": "CMakeFiles/main.dir/includes/parser/parser.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/sql/sql.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "output": "CMakeFiles/main.dir/includes/sql/sql.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/stub/stub.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "output": "CMakeFiles/main.dir/includes/stub/stub.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/table/resultset.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "output": "CMakeFiles/main.dir/includes/table/resultset.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/table/table.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "output": "CMakeFiles/main.dir/includes/table/table.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/table/typedefs.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "output": "CMakeFiles/main.dir/includes/table/typedefs.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/tokenizer/state_machine_functions.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/state_machine_functions.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/tokenizer/stokenize.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/stokenize.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/includes/tokenizer/tokenizer.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/tokenizer.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/_tests/_test_files/basic_test.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/_tests/_test_files/basic_test.cpp",
+  "output": "CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/binary_files/file_record.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/binary_files/file_record.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/binary_files/utilities.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/binary_files/utilities.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/parser/parser.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/parser/parser.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/sql/sql.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/sql/sql.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/stub/stub.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/stub/stub.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/table/resultset.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/table/resultset.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/table/table.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/table/table.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/table/typedefs.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/table/typedefs.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/tokenizer/state_machine_functions.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/state_machine_functions.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/tokenizer/stokenize.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/stokenize.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/basic_test.dir/includes/tokenizer/tokenizer.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/tokenizer.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/_tests/_test_files/testB.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/_tests/_test_files/testB.cpp",
+  "output": "CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/binary_files/file_record.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/testB.dir/includes/binary_files/file_record.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/binary_files/utilities.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/testB.dir/includes/binary_files/utilities.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/parser/parser.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/parser/parser.cpp",
+  "output": "CMakeFiles/testB.dir/includes/parser/parser.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/sql/sql.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/sql/sql.cpp",
+  "output": "CMakeFiles/testB.dir/includes/sql/sql.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/stub/stub.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/stub/stub.cpp",
+  "output": "CMakeFiles/testB.dir/includes/stub/stub.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/table/resultset.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/resultset.cpp",
+  "output": "CMakeFiles/testB.dir/includes/table/resultset.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/table/table.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/table.cpp",
+  "output": "CMakeFiles/testB.dir/includes/table/table.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/table/typedefs.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/table/typedefs.cpp",
+  "output": "CMakeFiles/testB.dir/includes/table/typedefs.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/tokenizer/state_machine_functions.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/state_machine_functions.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/tokenizer/stokenize.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/stokenize.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/testB.dir/includes/tokenizer/tokenizer.cpp.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/includes/tokenizer/tokenizer.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/tokenizer.cpp.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -I/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/include -I/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -I/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -I/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/include -isystem /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/sattwikbanerjee/CS008ASSIGNMENTS/99_99_final_project-sattwik171/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

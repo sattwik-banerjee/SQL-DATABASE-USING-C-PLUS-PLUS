@@ -1,0 +1,13 @@
+order
+_
+id
+customer
+_
+id
+product
+_
+id
+quantity
+order
+_
+date

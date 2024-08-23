@@ -1,0 +1,9 @@
+product
+_
+id
+name
+category
+price
+stock
+_
+quantity

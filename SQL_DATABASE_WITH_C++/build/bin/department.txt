@@ -1,0 +1,7 @@
+dept
+_
+id
+name
+manager
+budget
+location
